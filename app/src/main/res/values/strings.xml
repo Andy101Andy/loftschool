@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loftmoney</string>
+    <string name="titleButton">click on me</string>
+    <string name="NextActivity">MySecondActivity</string>
+
+</resources>
